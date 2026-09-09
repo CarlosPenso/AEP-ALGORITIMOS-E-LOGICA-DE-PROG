@@ -1,9 +1,9 @@
-Integrantes: Victor Gabriel; Carlos Henrique Penso Montemezzo.
-RA:
-Curso: Engenharia de Software.
-Disciplina: Algorítimos e Lógica de Programação.
-Descrição do projeto
-Objetivo da aplicação; 
-Tecnologias utilizadas; 
-Status do projeto; 
-Link ou referência para a documentação. 
+- Integrantes: Victor Gabriel; Carlos Henrique Penso Montemezzo.  
+- RA: 26005282-2; 26014283-2.  
+- Curso: Engenharia de Software.  
+- Semestre: 2SMB
+- Disciplina: Algorítimos e Lógica de Programação.  
+- Descrição do projeto: É um sistema de registro e acompanhamento da alimentação escolar, desenvolvido para auxiliar no controle da aceitação da merenda e no levantamento das preferências alimentares dos estudantes.  
+- Objetivo da aplicação: Registrar e acompanhar informações sobre a alimentação escolar, permitindo identificar a aceitação da merenda e as preferências alimentares dos estudantes, contribuindo para o planejamento e a melhoria da alimentação oferecida pela escola.  
+- Tecnologias utilizadas: Linguagem C; GitHub; Fluxogramas; Pseudocódigo.  
+- Status do projeto: Em andamento... 
