@@ -3,7 +3,7 @@
 - Curso: Engenharia de Software.  
 - Semestre: 2SMB
 - Disciplina: Algorítimos e Lógica de Programação.  
-- Descrição do projeto: É um sistema de registro e acompanhamento da alimentação escolar, desenvolvido para auxiliar no controle da aceitação da merenda e no levantamento das preferências alimentares dos estudantes.  
-- Objetivo da aplicação: Registrar e acompanhar informações sobre a alimentação escolar, permitindo identificar a aceitação da merenda e as preferências alimentares dos estudantes, contribuindo para o planejamento e a melhoria da alimentação oferecida pela escola.  
+- Descrição do projeto: Por meio do programa, é possível cadastrar ações, consultar os registros, atualizar a situação de cada atividade e gerar um resumo geral. O sistema foi implementado em linguagem C e funciona em terminal.   
+- Objetivo da aplicação: O Sistema IntegraPSE foi desenvolvido para registrar e acompanhar ações realizadas em escolas.  
 - Tecnologias utilizadas: Linguagem C; GitHub; Fluxogramas; Pseudocódigo.  
-- Status do projeto: Em andamento... 
+- Status do projeto: Finalizado
